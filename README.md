@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
