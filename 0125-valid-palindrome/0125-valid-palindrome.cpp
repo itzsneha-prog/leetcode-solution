@@ -11,18 +11,30 @@ public:
                 newString.push_back(s[i]);
             }
         }
-        if(newString.size()==0){
-            return true;
-        }else{
-            int n=newString.size();
-            for(int i= n-1;i>=0;i--){
-                checkPalin.push_back(newString[i]);
+        int n=newString.size();
+        for(int i=0;i<n/2;i++){
+            int st=i;
+            int end=n-i-1;
+            if(newString[st]==newString[end]){
+                continue;
             }
-            if(checkPalin== newString){
-                return true;
-            }else{
+            else{
                 return false;
             }
         }
+        return true;
+        // if(newString.size()==0){
+        //     return true;
+        // }else{
+        //     int n=newString.size();
+        //     for(int i= n-1;i>=0;i--){
+        //         checkPalin.push_back(newString[i]);
+        //     }
+        //     if(checkPalin== newString){
+        //         return true;
+        //     }else{
+        //         return false;
+        //     }
+        // }
     }
 };
