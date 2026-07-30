@@ -22,7 +22,7 @@ public:
         while(m>0 && s[m] == ' '){
             m--;
         }
-        if(m<0){
+        if(m<0){           //we can remove this if condition because in this question there is always on letter given 
             return -1;
         }else{
         while(m>=0 && s[m]!=' '){
