@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
