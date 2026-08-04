@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -44,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
