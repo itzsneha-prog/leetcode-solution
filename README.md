@@ -57,6 +57,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -92,6 +93,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Trie
