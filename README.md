@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 ## String
