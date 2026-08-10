@@ -45,6 +45,7 @@
 | [0219-contains-duplicate-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -118,6 +119,7 @@
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
 | ------- |
