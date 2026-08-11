@@ -165,4 +165,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
