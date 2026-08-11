@@ -94,6 +94,7 @@
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
