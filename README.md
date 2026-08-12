@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -47,6 +48,7 @@
 | [0219-contains-duplicate-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -62,6 +64,7 @@
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -186,4 +189,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
