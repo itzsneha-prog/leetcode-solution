@@ -134,6 +134,7 @@
 | [0125-valid-palindrome](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
