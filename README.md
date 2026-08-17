@@ -48,6 +48,7 @@
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -67,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +136,7 @@
 | [0125-valid-palindrome](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -156,6 +159,7 @@
 | ------- |
 | [0136-single-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
