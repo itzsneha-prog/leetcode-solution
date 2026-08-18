@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -210,4 +211,16 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
