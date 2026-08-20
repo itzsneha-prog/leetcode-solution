@@ -89,6 +89,7 @@
 | [0069-sqrtx](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
