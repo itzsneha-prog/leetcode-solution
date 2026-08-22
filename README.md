@@ -20,6 +20,7 @@
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0015-3sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
@@ -114,6 +116,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0141-linked-list-cycle) |
@@ -269,4 +272,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
