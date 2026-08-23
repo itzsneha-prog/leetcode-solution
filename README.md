@@ -227,6 +227,7 @@
 | [0002-add-two-numbers](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0206-reverse-linked-list) |
