@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -256,6 +257,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
