@@ -206,6 +206,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
@@ -263,6 +264,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -294,6 +296,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
