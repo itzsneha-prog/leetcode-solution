@@ -36,6 +36,7 @@
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -133,6 +135,7 @@
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
