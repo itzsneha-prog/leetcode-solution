@@ -39,6 +39,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1550-three-consecutive-odds) |
@@ -64,6 +65,7 @@
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
