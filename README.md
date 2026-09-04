@@ -109,6 +109,7 @@
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -173,6 +174,7 @@
 | [0344-reverse-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
