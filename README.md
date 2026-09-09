@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
@@ -142,6 +144,7 @@
 | [0141-linked-list-cycle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0344-reverse-string) |
