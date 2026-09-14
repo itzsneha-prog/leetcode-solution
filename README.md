@@ -50,6 +50,7 @@
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
