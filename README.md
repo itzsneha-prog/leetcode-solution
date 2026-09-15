@@ -39,6 +39,7 @@
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1051-height-checker) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -120,6 +121,7 @@
 | [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
