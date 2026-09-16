@@ -36,6 +36,7 @@
 | [0485-max-consecutive-ones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1051-height-checker) |
@@ -213,6 +214,7 @@
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
@@ -247,6 +249,7 @@
 | [0234-palindrome-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
