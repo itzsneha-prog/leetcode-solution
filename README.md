@@ -211,6 +211,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3019-number-of-changing-keys](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
