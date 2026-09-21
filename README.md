@@ -41,6 +41,7 @@
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -132,6 +133,7 @@
 | [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -399,6 +401,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -408,4 +411,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
