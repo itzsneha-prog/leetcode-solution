@@ -62,6 +62,7 @@
 | [2974-minimum-number-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3668-restore-finishing-order](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
