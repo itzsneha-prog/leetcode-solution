@@ -58,6 +58,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -226,6 +227,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
@@ -247,6 +249,7 @@
 | [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
