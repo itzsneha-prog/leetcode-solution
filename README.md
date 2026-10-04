@@ -222,6 +222,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -270,6 +271,7 @@
 | [0119-pascals-triangle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [0234-palindrome-linked-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
@@ -300,11 +303,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Newton's Method
 |  |
