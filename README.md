@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -173,6 +174,7 @@
 | [0027-remove-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -290,6 +293,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -371,6 +375,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
