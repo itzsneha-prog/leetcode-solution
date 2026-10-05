@@ -227,6 +227,7 @@
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -299,6 +300,7 @@
 | [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -309,6 +311,7 @@
 | [0020-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
