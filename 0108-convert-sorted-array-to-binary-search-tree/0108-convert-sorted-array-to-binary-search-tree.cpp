@@ -23,6 +23,8 @@ public:
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         return build(nums,0,nums.size()-1);
+
+        //IT IS NOT THE HEIGHT BALANCES TREE IT IS JUST THE  'BINARY  SEARCH TREE'
     // TreeNode* createNode(int val){
     //     TreeNode* root=new TreeNode(val);
         
