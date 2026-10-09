@@ -239,6 +239,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -316,6 +317,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
 ## Bracket Sequences
@@ -327,6 +329,7 @@
 | [0856-score-of-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -335,6 +338,7 @@
 | [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Newton's Method
 |  |
 | ------- |
