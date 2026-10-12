@@ -286,6 +286,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
@@ -428,6 +429,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0101-symmetric-tree) |
@@ -456,6 +458,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0101-symmetric-tree) |
@@ -505,6 +508,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -512,4 +516,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
