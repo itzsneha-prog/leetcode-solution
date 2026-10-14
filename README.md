@@ -31,6 +31,7 @@
 | [0136-single-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -456,6 +458,7 @@
 | [0112-path-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -485,6 +488,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -522,4 +526,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
