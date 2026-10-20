@@ -73,6 +73,7 @@
 | [2942-find-words-containing-character](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3668-restore-finishing-order) |
@@ -132,6 +133,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2974-minimum-number-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [2652-sum-multiples](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
@@ -521,6 +524,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0812-largest-triangle-area) |
+| [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Binary Search Tree
 |  |
 | ------- |
