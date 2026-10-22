@@ -62,6 +62,7 @@
 | [1512-number-of-good-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -186,6 +187,7 @@
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
