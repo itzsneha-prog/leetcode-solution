@@ -60,6 +60,7 @@
 | [1470-shuffle-the-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1672-richest-customer-wealth) |
@@ -541,6 +542,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
