@@ -19,19 +19,6 @@ public:
             return false;
         }
 
-        // check(root->left);
-        // if(root->left!=NULL && root->val>root->left->val){
-        //     return true;
-        // }
-        // check(root->right);
-        //     if(root->right!=NULL && root->val<root->right->val){
-        //     return true;
-        // }
-        // if(!check(root->left) || !check(root->right)){
-        //     return false;
-        // }
-        // return true;
-
         return check(root->left,min,root->val) && check(root->right,root->val,max);
     }
     bool isValidBST(TreeNode* root) {
