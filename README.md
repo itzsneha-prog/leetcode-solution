@@ -480,6 +480,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
@@ -562,4 +564,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
