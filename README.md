@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -247,6 +249,7 @@
 | [0032-longest-valid-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
@@ -471,6 +474,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0101-symmetric-tree) |
@@ -551,6 +555,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 ## Union-Find
 |  |
