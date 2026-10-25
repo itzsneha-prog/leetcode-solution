@@ -54,6 +54,7 @@
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +194,7 @@
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -492,6 +494,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
+| [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -525,6 +528,7 @@
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -570,6 +574,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
