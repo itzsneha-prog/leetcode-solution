@@ -84,6 +84,7 @@
 | [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -198,6 +199,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -495,6 +497,7 @@
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
 | [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -529,6 +532,7 @@
 | [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -575,6 +579,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
