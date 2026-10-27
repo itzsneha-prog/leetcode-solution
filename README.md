@@ -109,6 +109,7 @@
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1512-number-of-good-pairs) |
@@ -269,6 +270,7 @@
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
