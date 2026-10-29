@@ -69,6 +69,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -158,6 +160,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
