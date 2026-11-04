@@ -87,6 +87,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -196,6 +197,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3895-count-digit-appearances) |
