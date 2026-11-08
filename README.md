@@ -308,6 +308,7 @@
 | [2678-number-of-senior-citizens](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3019-number-of-changing-keys) |
+| [3110-score-of-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
