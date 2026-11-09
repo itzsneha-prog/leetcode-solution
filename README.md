@@ -190,6 +190,7 @@
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1512-number-of-good-pairs) |
