@@ -74,6 +74,7 @@
 | [1748-sum-of-unique-elements](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -329,6 +330,7 @@
 | [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
