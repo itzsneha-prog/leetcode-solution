@@ -41,6 +41,7 @@
 | [0260-single-number-iii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0485-max-consecutive-ones) |
@@ -114,6 +115,7 @@
 | [0219-contains-duplicate-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -150,6 +152,7 @@
 | [0217-contains-duplicate](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -247,6 +250,7 @@
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0832-flipping-an-image) |
@@ -272,6 +276,7 @@
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
