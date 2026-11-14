@@ -47,6 +47,7 @@
 | [0485-max-consecutive-ones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
