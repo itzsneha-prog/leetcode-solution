@@ -283,6 +283,7 @@
 | [0069-sqrtx](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0367-valid-perfect-square) |
@@ -650,4 +651,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0207-course-schedule) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
