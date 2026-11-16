@@ -195,6 +195,7 @@
 | [0189-rotate-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0509-fibonacci-number) |
