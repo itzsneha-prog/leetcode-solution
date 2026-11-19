@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0455-assign-cookies) |
@@ -159,6 +160,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0645-set-mismatch) |
