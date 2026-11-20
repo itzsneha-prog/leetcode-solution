@@ -314,6 +314,7 @@
 | [0412-fizz-buzz](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/itzsneha-prog/leetcode-solution/tree/master/0771-jewels-and-stones) |
