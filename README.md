@@ -333,6 +333,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itzsneha-prog/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2678-number-of-senior-citizens](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3019-number-of-changing-keys) |
