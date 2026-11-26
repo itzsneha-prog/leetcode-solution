@@ -221,6 +221,7 @@
 | [3024-type-of-triangle](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -366,6 +367,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/itzsneha-prog/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
